@@ -19,7 +19,6 @@ let s:strct = ''
 function! ctrlp#goimpl#id(...) abort
   let s:package = a:0 > 0 ? a:1 : ''
   let s:strct = a:0 > 1 ? a:2 : ''
-  echomsg s:package
   return s:id
 endfunction
 
