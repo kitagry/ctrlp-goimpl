@@ -4,6 +4,6 @@
 
 ### Requirements
 
-- [ctrlp.vim](https://github.com/ctrlp/ctrlp.vim)
+- [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim)
 - [impl](https://github.com/josharian/impl)
 - [knife](https://github.com/gostaticanalysis/knife)
